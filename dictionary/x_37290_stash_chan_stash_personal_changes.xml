@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Stash Personal Changes" max_length="40" name="x_37290_stash_chan_stash_personal_changes" type="collection">
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>
