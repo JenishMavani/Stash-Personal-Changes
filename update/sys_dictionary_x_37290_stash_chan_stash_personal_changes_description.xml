@@ -31,8 +31,6 @@
         <element>description</element>
         <element_reference>false</element_reference>
         <foreign_database/>
-        <function_definition/>
-        <function_field>false</function_field>
         <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
@@ -54,7 +52,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-02-19 07:12:26</sys_created_on>
-        <sys_id>1a558a7adb10130034dddec0cf96196e</sys_id>
+        <sys_id>b2f74e3adb101300395fd360cf9619e5</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Description</sys_name>
         <sys_package display_value="Stash Changes Demo" source="x_37290_stash_chan">99708af2db101300395fd360cf961978</sys_package>
@@ -62,7 +60,7 @@
         <sys_scope display_value="Stash Changes Demo">99708af2db101300395fd360cf961978</sys_scope>
         <sys_update_name>sys_dictionary_x_37290_stash_chan_stash_personal_changes_description</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-02-19 07:26:35</sys_updated_on>
+        <sys_updated_on>2018-02-19 07:38:06</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

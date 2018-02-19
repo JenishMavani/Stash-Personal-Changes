@@ -8,7 +8,6 @@
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_37290_stash_chan.stash_personal_changes_user</name>
-        <scoped_admin>false</scoped_admin>
         <suffix>stash_personal_changes_user</suffix>
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
